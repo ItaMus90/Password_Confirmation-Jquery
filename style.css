@@ -1,0 +1,46 @@
+body{
+	background: #100000;
+	opacity: 1;
+}
+
+form{
+	font-family: sans-serif;
+	font-size: 10px;
+	padding: 50px;
+	background: #7CDE8D;
+	opacity: 0.8;
+	max-width: 199px;
+	margin: 100px auto 0;
+	color: #fff;
+
+}
+
+div{
+	margin: 0 0 3em 0;
+	position: relative;
+}
+
+label{
+	font-size: 15px;
+}
+
+span{
+	display: block;
+	font-size: 15px;
+    position: absolute;
+    background: blueviolet;
+    color: white;
+    padding: 10px;
+    width: 180px;
+    left: 105%;
+    top: 10px;
+}
+input{
+	width: 100%;
+}
+input[type="submit"]{
+	background: #2F558E;
+    color: white;
+    font-size: 2em;
+    height: 40px;
+}
